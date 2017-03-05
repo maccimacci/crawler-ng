@@ -1,0 +1,5 @@
+temp/*.cap
+dict/*.lst
+src/crunch/**/*.txt
+src/crunch/**/*.lst
+
